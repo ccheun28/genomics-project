@@ -1,0 +1,10 @@
+# Ignore large GEO files
+GSE13159_series_matrix.txt
+X.txt
+GPL570-55999.txt
+*.gz
+*.npy
+*.pkl
+*.txt
+
+.DS_Store
