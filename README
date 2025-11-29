@@ -1,0 +1,12 @@
+In order to run this repository, you must install Git LFS to be able to clone and run Geneformer.
+
+For Mac/Intel:
+> brew install git-lfs
+> git lfs install
+
+For Windows, you can use the online installer at https://git-lfs.github.com/
+
+Then, we run these commands to clone Geneformer into our repository
+> git clone https://huggingface.co/ctheodoris/Geneformer
+> cd Geneformer
+> pip install .
